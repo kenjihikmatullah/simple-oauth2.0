@@ -1,7 +1,7 @@
 oauth2:
   asClient:
     github:
-      clientId: 6f35e3759d4f0cea0ab6
-      clientSecret: 9ad46f467eca5a1106c56d15b521f1e106324a4f
+      clientId: 6f35e3759d4f0cea0ab6 # Replace with your own
+      clientSecret: 9ad46f467eca5a1106c56d15b521f1e106324a4f # Replace with your own
 
 
