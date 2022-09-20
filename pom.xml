@@ -14,7 +14,7 @@
     <name>learn-oauth2.0</name>
     <description>Learn OAuth 2.0</description>
     <properties>
-        <java.version>17</java.version>
+        <java.version>18</java.version>
     </properties>
 
     <dependencies>

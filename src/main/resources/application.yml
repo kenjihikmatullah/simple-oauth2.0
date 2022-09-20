@@ -3,5 +3,8 @@ oauth2:
     github:
       clientId: 6f35e3759d4f0cea0ab6 # Replace with your own
       clientSecret: 9ad46f467eca5a1106c56d15b521f1e106324a4f # Replace with your own
+    google:
+      clientId: 875400976552-7iv5d5tdc2p9soualch15jpmb4ug4r37 # Replace with your own
+      clientSecret: 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 # Replace with your own
 
 
