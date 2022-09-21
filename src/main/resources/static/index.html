@@ -8,20 +8,17 @@
     <meta name="viewport" content="width=device-width"/>
     <base href="/"/>
     <link rel="stylesheet" type="text/css" href="/webjars/bootstrap/css/bootstrap.min.css"/>
+    <link rel="stylesheet" type="text/css" href="css/index.css"/>
     <script type="text/javascript" src="/webjars/jquery/jquery.min.js"></script>
     <script type="text/javascript" src="/webjars/bootstrap/js/bootstrap.min.js">
     </script>
 </head>
-<body>
-<h1>Learn OAuth 2.0</h1>
-<div class="container"></div>
+<body class="box">
+<h1 class="title">Learn OAuth 2.0</h1>
 
-<div class="container">
-    Login using GitHub account: <a href="/login/oauth2/github">click here</a>
-</div>
-
-<div class="container">
-    Login using Google account: <a href="/login/oauth2/google">click here</a>
+<div class="content">
+    <a class="btn btn-light" href="/login/oauth2/github" role="button">Login using GitHub</a>
+    <a class="btn btn-light" href="/login/oauth2/google" role="button">Login using Google</a>
 </div>
 </body>
 </html>

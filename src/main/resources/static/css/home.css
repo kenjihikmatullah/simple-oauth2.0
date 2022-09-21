@@ -1,0 +1,23 @@
+html, body {
+    height: 100%;
+}
+
+.box {
+    align-items: center;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+
+.title {
+    color: white;
+}
+
+.content {
+    margin-top: 40px;
+    color: white;
+    display: flex;
+    gap: 12px;
+}
