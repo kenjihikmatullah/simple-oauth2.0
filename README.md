@@ -1,5 +1,5 @@
 ## Application
-The following are simple application of OAuth 2.0 Framework to authorize user. These applications are implemented using simple Spring Boot project without any Oauth 2.0 library.
+The following are simple application of OAuth 2.0 Framework to authorize user. These applications are implemented using simple Spring Boot project without any OAuth 2.0 library.
 
 
 #### Sign in with GitHub Account
